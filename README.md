@@ -1,2 +1,2 @@
-# -mingmingchinese-hsk
+# mingmingchinese-hsk
 MingMing Chinese - HSK
